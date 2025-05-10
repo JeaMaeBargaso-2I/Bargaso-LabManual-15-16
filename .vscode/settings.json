@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "BARGASO-LAB-15"
+    ],
+    "java.project.referencedLibraries": [
+        "BARGASO-LAB-15\\lib\\mysql-connector-j-9.3.0\\mysql-connector-j-9.3.0.jar"
+    ]
+}
